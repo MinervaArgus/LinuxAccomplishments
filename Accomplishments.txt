@@ -1,0 +1,33 @@
+  - History: 
+    - I have dabbled in Linux for around 5-6 years now. I have always been infactuated with the customization, the fact it is open-source, and let's be honest, Linux just makes
+      you feel like a hacker. Over the course of the years I have learned various commands, tricks, and the in's and out's of Linux. 
+  
+  - October 2017 - January 2018
+    - Set up a VM with Kali Linux
+    - Failed to get through the errors on VirtualBox and gave up for a while
+    
+  - February 2018 - October 2020
+    - Successfully set up my first Virtual Machine with Kali Linux 
+    - Played around with the built-in tools and started to get a feel for the differences between Linux, Windows, and Mac
+    - Continued to learn but at a slow but steady pace.
+    
+  - November 2021 - May 2022
+    - Started a Virtual Machine running Linux Ubuntu on an Azure server
+    - Started to love Ubuntu and then learned what Windows Subsystem for Linux (WSL) was.
+    - Installed Ubuntu as an extra terminal for my Windows machine using WSL.
+    - Continued to use Ubuntu on the Azure machine, and also praciticed the commands by using WSL.
+    
+  - June 2022 - December 2022
+    - Made the switch to Linux OS completely on my laptop.
+    - Continued my Linux learning journey until school started in August.
+    - School started and I started to learn even more about Linux and Unix through the C & Unix course I took through Radford.
+    - Attempted to make the switch to Klipper Firmware on my 3D printers. (Used a simple Dell Wyse Thin Client that I flashed with Linux Mint XFCE 21. 
+      The only problem with this method was that the Thin Client had no WiFi capabilities and I had no ethernet access.
+  
+  - January 2023 - March 2023
+    - Set up a personal server on a old desktop running Ubuntu LTS 20.04 
+    - I set up docker on this server and have portainer running on it.
+    - Switched from the Thin Client to an Old Lenovo Desktop since the Lenovo had WiFi capabilities.
+    - Set up multiple services such as Bitwarden for password management, a file-sharing service with an account system, Jellyfin for media streaming, and even Klipper for my 3D Printers.
+    - Klipper (a special firmware for 3D printing) was the main reason I created the server, but after I installed docker and portainer, I fell into the rabbit hole of self hosted services.
+    
